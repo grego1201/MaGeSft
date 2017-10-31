@@ -18,6 +18,7 @@ public class JavaApplication2 {
         // TODO code application logic here
         
         System.out.println("Hola mundo");
+        System.out.println("Nueva linea");
     }
     
 }
