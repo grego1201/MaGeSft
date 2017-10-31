@@ -23,7 +23,7 @@ public class JavaApplication2 {
         System.out.println("Jarixo");
         System.out.println("vhhchcg");
         System.out.println("sois unos paguelas");
-        System.out.println("Ivan no trabaja");
+        System.out.println("Ivan no trabajaa");
     }
     
 }
